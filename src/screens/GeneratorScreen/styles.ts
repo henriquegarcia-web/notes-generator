@@ -58,6 +58,7 @@ export const ContainerSubHeader = styled.div`
 
   p {
     font-weight: 400;
+    text-transform: uppercase;
 
     color: #b7b7b7;
   }
