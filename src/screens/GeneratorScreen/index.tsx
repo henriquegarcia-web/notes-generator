@@ -10,8 +10,8 @@ const GeneratorScreen = ({}: IGeneratorScreen) => {
       <S.GeneratorContainer>
         <S.ContainerHeader>1ª Opção de curso</S.ContainerHeader>
         <S.ContainerSubHeader>
-          <b>Incrição realizada em 20/02/2024 às 16h14.</b>
-          <p>AFN76ANDFN5DFXFAFN68BAD893FBF</p>
+          <b>Incrição realizada em 12/06/2024 às 16h14.</b>
+          <p>B2S0F7ZF0AYMBVKFM0S7D3D5FSD8E8A5D20X</p>
           <h1>Medicina</h1>
         </S.ContainerSubHeader>
         <S.ContainerContent>
