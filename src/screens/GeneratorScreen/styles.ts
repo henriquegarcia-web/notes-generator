@@ -81,6 +81,7 @@ export const ContainerContent = styled.div`
   row-gap: 10px;
   border-radius: 2px;
   padding: 35px 20px 30px 20px;
+  margin: 0 20px;
 
   background-color: #e2e6ef;
 
@@ -142,7 +143,7 @@ export const ContainerFooterVacancies = styled.div`
   display: flex;
   align-items: center;
   column-gap: 15px;
-  padding: 15px;
+  padding: 15px 20px;
   border-top: 2px solid #ececec;
   border-bottom: 2px solid #ececec;
 
